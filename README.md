@@ -10,13 +10,16 @@
 
 - 데스크탑 화면
 
-  <img width="49%" src="https://github.com/user-attachments/assets/f204cad1-2619-425b-86ae-a0f163986b4c"/>
-  <img width="49%" src="https://github.com/user-attachments/assets/244cb4d2-6436-4c51-b399-e7f71a17fc37"/>
+  <img width="49%" src="https://github.com/user-attachments/assets/330a73dd-7421-4f19-8537-325cbc64594b"/>
+  <img width="49%" src="https://github.com/user-attachments/assets/b3f20caf-ba41-4ec5-ba3b-ce83d9b18025"/>
+
+  <img width="49%" src="https://github.com/user-attachments/assets/63fd522d-acff-4caf-9b41-713e39b0868d"/>
+  <img width="49%" src="https://github.com/user-attachments/assets/3d02c376-ca58-4ffe-a55a-2b682662439e"/>
 
 - 모바일 화면
 
-  <img width="200px" height="420px" src="https://github.com/user-attachments/assets/d49265a6-9847-42c7-94b8-1306b6cff7c9"/>
-  <img width="200px" height="420px" src="https://github.com/user-attachments/assets/ec0948ef-6c72-481c-acad-2bd2b411976c"/>
+  <img width="200px" height="420px" src="https://github.com/user-attachments/assets/f6c7186f-974f-450e-a1cf-015a020e0bc9"/>
+  <img width="200px" height="420px" src="https://github.com/user-attachments/assets/8d12f388-339c-42c6-9a5e-98ba1605cba4"/>
 
 ## 1. 환경
 
