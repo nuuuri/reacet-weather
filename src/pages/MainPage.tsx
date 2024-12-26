@@ -109,7 +109,7 @@ export default function MainPage() {
         </div>
       )}
       <div
-        className={`relative flex flex-col justify-center w-4/5 gap-20 p-10 ${isOpenMenu ? 'w-4/5' : 'w-full'}`}>
+        className={`relative flex flex-col justify-center items-center w-4/5 gap-20 p-10 ${isOpenMenu ? 'w-4/5' : 'w-full'}`}>
         <div className="absolute flex items-center gap-4 top-5 left-5">
           <MdMenu
             className="w-8 h-8 cursor-pointer"
@@ -127,7 +127,7 @@ export default function MainPage() {
         </div>
 
         <CurrentWeather data={region} />
-        <div className="flex w-full gap-5 p-5 overflow-x-auto">
+        <div className="flex max-w-full gap-5 p-5 overflow-x-auto w-fit">
           {region.forecast?.map((weather, idx) => (
             <HourlyWeather key={idx} data={weather} />
           ))}
